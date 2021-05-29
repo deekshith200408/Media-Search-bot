@@ -23,11 +23,12 @@ DATABASE_NAME = 'Telegram'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 # Messages
-START_MSG = """
-**Hi, I'm Media Search bot**
+START_MSG = """🤓👼ʜɪ ʜᴇʟʟᴏ,
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+👀ɪ ᴀᴍ ʜᴇʟᴘ ʏᴏᴜ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ɪɴ ɪɴʟɪɴᴇ ᴍᴏᴅᴇ 🕵️.
+
+👨‍💻© ᴄʀᴇᴀᴛᴇR  :- @deeks_04_8.🤹‍♂️
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'Please join @.... to use this bot'
+SHARE_BUTTON_TEXT = '𝑺𝒉𝒂𝒓𝒆 𝒕𝒉𝒊𝒔 𝒕𝒐 𝒚𝒐𝒖𝒓𝒔 𝒇𝒓𝒅𝒔 ,𝑨𝑵𝑫 𝑱𝑶𝑰𝑵 𝑶𝑼𝑹 𝑮𝑹𝑶𝑼𝑷 @UM_Requests'
+INVITE_MSG = '𝑱𝑶𝑰𝑵 𝑶𝑼𝑹 𝑪𝑯𝑨𝑵𝑵𝑬𝑳𝑺 𝑮𝑶 = @UNI_MOVIES_BOX'
